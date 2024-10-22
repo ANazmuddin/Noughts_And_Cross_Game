@@ -122,6 +122,8 @@ const reset = () => {
                 </div>
             </div>
             <button className="reset" onClick={()=>{reset()}}>Reset</button>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8979685264206047"
+            crossorigin="anonymous"></script>
         </div>
     )
 }
